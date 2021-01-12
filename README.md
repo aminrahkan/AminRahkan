@@ -1,4 +1,4 @@
-#### Hi there 👋  my name is Amin Rahkan
+#### Hi there, my name is Amin Rahkan 👋
 
 
 - 🔭 I’m currently working on [Gap Messenger ](https://gap.im/en). 
